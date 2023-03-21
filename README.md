@@ -1,9 +1,12 @@
 # API
 Team 8 Backend
 
-Noura shrahili
-Noor Aljuaid
-weaam sanad
+Noura shrahili.
+
+Noor Aljuaid.
+
+weaam sanad.
+
 
 Solution Concept
 
