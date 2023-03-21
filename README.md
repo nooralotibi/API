@@ -1,16 +1,17 @@
 # API
-Team 1 Backend
+Team 8 Backend
 
-Ghala AlBarakati
-Fatma Gazwani
-Nouf alghamdi
+Noura shrahili
+Noor Aljuaid
+weaam sanad
+
 Solution Concept
 
-An API to help users get, create, update and delete information about movies
+An API to help users get, create, update and delete information about designs
 
 App Statement
 
-An Api to help users get, create, update and delete information about movies
+creating API that help people to know more information about  Fashion designers around the world.
 
 Feature List
 
