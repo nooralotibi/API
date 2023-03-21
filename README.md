@@ -47,8 +47,8 @@ http://127.0.0.1:8080/designs/id
 
 
 
-Database Schema: 
 <img width="330" alt="Screenshot 1444-08-29 at 10 47 00 AM" src="https://user-images.githubusercontent.com/118092206/226559836-83dc6144-435a-4af4-b931-ec7117b34e35.png">
+Database Schema: 
 
 
 Deployment Server (if any)
